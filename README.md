@@ -1,8 +1,4 @@
-- 👋 Hi, This is krish.
-- 👀 I’m interested in learning web 3.0
-- 🌱 I’m currently learning ReactJs
-- 💞️ I’m looking to collaborate on web dev floks
-- 📫 How to reach me to became frontend developer
+- Hi there! 👋
 
 <!---
 krishbalaji27/krishbalaji27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
