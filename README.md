@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @balaji
+- 👋 Hi, This is krish.
 - 👀 I’m interested in learning web 3.0
 - 🌱 I’m currently learning ReactJs
-- 💞️ I’m looking to collaborate on web & fullstack dev floks
+- 💞️ I’m looking to collaborate on web dev floks
 - 📫 How to reach me to became frontend developer
 
 <!---
