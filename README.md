@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @balaji
-- 👀 I’m interested in learning web 3.0
+- 👀 I’m interested in learning web 3.0 & react
 - 🌱 I’m currently learning ReactJs
 - 💞️ I’m looking to collaborate on web & fullstack dev floks
 - 📫 How to reach me to became frontend developer
